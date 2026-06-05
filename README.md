@@ -45,7 +45,7 @@ I am a **Software Engineering Practitioner** with a focus on building performant
 #### 🤖 Generative AI & Cloud
 | Category | Technologies & Skills |
 | :--- | :--- |
-| **AI / ML** | ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat&logo=openai&logoColor=white) **Gemini API**, **LLM Orchestration**, **Python** |
+| **AI / ML** | **Generative AI**,**Gemini API**, **LLM Orchestration**, **Python** |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
 | **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
