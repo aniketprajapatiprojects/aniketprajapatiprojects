@@ -61,7 +61,7 @@ Organizer Leader @ Technobash: Led technical workshops and events at GSMCOE Pune
 
 Innovative Engineer Award 2024: Awarded by ISRC for "Dukaan," a smart retail solution.<br />
 AWS User Group Pune: Winner of technical contests and active community speaker.<br />
-Academics: B.E. in Computer Engineering from **Savitribai Phule Pune University** (CGPA: **8.64**).<br />
+Academics: B.E. in Computer Engineering from **Savitribai Phule Pune University** (CGPA: **8.74**).<br />
 
 
 
